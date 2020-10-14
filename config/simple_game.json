@@ -1,0 +1,13 @@
+{
+  "time": 30,
+  "splash-screen": true,
+  "enemy": {
+    "speed": 100,
+    "visible": false
+  },
+  "player": {
+    "speed": 30,
+    "human": false
+  }
+
+}

@@ -1,0 +1,12 @@
+# TOML example
+
+time = 45
+splash-screen = true
+
+[enemy]
+speed = 100
+visible = false
+
+[player]
+speed = 40
+visible = true
