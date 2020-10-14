@@ -29,6 +29,7 @@ END
 }
 
 run_games() {
+  section 'BASE CASE'
   run_game 'No arguments' 'No app-specific variables are set.'
 
   section 'COMMAND LINE ARGUMENTS'

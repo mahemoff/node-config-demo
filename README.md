@@ -1,5 +1,6 @@
 # node-config-demo
 How to read options from command line, config files, and mix both. With Node and Yargs.
+# BASE CASE
 ## NO ARGUMENTS
 No app-specific variables are set.
 
